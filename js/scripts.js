@@ -147,10 +147,10 @@ const swiper = new Swiper('.swiper', {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
     },
-    // autoplay: {
-    //     delay: 3000,
-    //     disableOnInteraction: false,
-    // },
+    autoplay: {
+        delay: 3000,
+        disableOnInteraction: false,
+    },
 });
 
 
@@ -188,10 +188,8 @@ buttons.forEach(button => {
     // modalImg.src = imgSrc;
     // modalImg.alt = title;
 
-    // Очищаємо список перед новим наповненням
     modalList.innerHTML = '';
 
-    // Розбиваємо на пункти та додаємо до <ul>
     const items = listData.split('|');
     items.forEach(item => {
       const li = document.createElement('li');
