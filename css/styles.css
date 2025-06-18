@@ -692,3 +692,10 @@ Modal
     top: 3px;
   }
 }
+
+
+/* form */
+
+.formPadding {
+  padding-bottom: 32px;
+}
