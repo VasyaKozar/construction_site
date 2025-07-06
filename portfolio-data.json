@@ -1,0 +1,267 @@
+{
+  "portfolioItems": [
+    
+    {
+      "title": "Výstavba rodinných domov – od projektu po odovzdanie kľúčov",
+      "text": "Kompletná realizácia rodinných domov na kľúč – od návrhu projektu, cez stavebné práce, až po finálne odovzdanie hotového bývania.",
+      "list": [
+        "Individuálny návrh projektu podľa požiadaviek klienta – vypracovanie architektonického a dispozičného riešenia.",
+        "Poradenstvo pri výbere stavebných materiálov a technológií – zohľadnenie energetickej efektívnosti a trvácnosti stavby.",
+        "Vypracovanie všetkých potrebných povolení a dokumentácie – zabezpečenie stavebného povolenia a súhlasov.",
+        "Zabezpečenie kvalitnej stavebnej prípravy a základov domu – realizácia základovej dosky alebo základov podľa projektu.",
+        "Kompletné hrubé stavby vrátane múrov, strechy a okien – zabezpečenie pevnej a bezpečnej konštrukcie.",
+        "Inštalácie elektro, vody, kanalizácie a kúrenia – odborná montáž inžinierskych sietí a systémov.",
+        "Interiérové práce vrátane omietok, podláh a obkladov – realizácia všetkých vnútorných dokončovacích prác.",
+        "Montáž dverí, okien a fasády – zabezpečenie estetickej a funkčnej stránky exteriéru.",
+        "Konečné úpravy, záhradné úpravy a príprava exteriéru – úprava okolia domu podľa požiadaviek klienta.",
+        "Odovzdanie hotového domu vrátane zaškolenia klienta – odovzdanie kľúčov a poskytnutie dokumentácie k prevádzke domu."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/house_outline.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/house_filled.png",
+      "delay": ""
+    },
+    {
+      "title": "Rekonštrukcie bytov a domov – modernizácia a opravy",
+      "text": "Kompletné alebo čiastočné rekonštrukcie objektov zamerané na zvýšenie komfortu, funkčnosti a estetiky bývania.",
+      "list": [
+        "Kompletné alebo čiastočné rekonštrukcie podľa požiadaviek klienta – od návrhu dispozičných zmien po realizáciu.",
+        "Výmena elektroinštalácie, vodoinštalácie a kúrenia – zabezpečenie bezpečnosti a funkčnosti.",
+        "Obnova interiérových povrchov – nové podlahy, omietky, maľby, obklady.",
+        "Zvýšenie energetickej efektívnosti – zateplenie, výmena okien a dverí.",
+        "Poradenstvo a technické riešenia na mieru – modernizácia so zreteľom na rozpočet a kvalitu."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/reconstruction.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/reconstruction.png",
+      "delay": "delay-05s"
+    },
+    {
+      "title": "Poradenství v oblasti úspor energií",
+      "text": "Analýza a doporučení opatření ke snížení energetické náročnosti budov a úsporám nákladů.",
+      "list": [
+        "Analýza energetickej náročnosti budovy – vyhodnotenie možností úspor.",
+        "Návrh efektívnych riešení – zateplenie, výmena okien, fotovoltaika, tepelné čerpadlá.",
+        "Výpočet návratnosti investície – pomoc pri rozhodovaní o vhodnom riešení.",
+        "Zabezpečenie dokumentácie pre dotácie – podpora pri vybavení štátnych príspevkov.",
+        "Konzultácie priamo na mieste – odborné poradenstvo a individuálny prístup."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/builder.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/builder.png",
+      "delay": "delay-1s"
+    },
+
+    {
+      "title": "Vodoinštalácie a odpadové systémy",
+      "text": "Montáž, opravy a výmena vodovodných rozvodov a odpadových systémov vrátane poradenstva a revízií.",
+      "list": [
+        "Montáž a rekonštrukcia vodovodných rozvodov – pre novostavby aj rekonštrukcie.",
+        "Inštalácia odpadových systémov – zabezpečenie správneho odvodu vody.",
+        "Napojenie na verejnú sieť alebo septik – podľa možností a potrieb klienta.",
+        "Výmena starých potrubí – zlepšenie hygieny a prevencie porúch.",
+        "Použitie kvalitných materiálov – dlhá životnosť a spoľahlivosť."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/toilet_repair.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/toilet_repair.png",
+      "delay": ""
+    },
+    {
+      "title": "Murárske práce",
+      "text": "Všetky druhy murárskych prác – od murovania priečok po opravy omietok, preklady a nosné konštrukcie.",
+      "list": [
+        "Výstavba priečok, múrov a nosných konštrukcií – presnosť a pevnosť.",
+        "Zhotovenie veniec, prekladov a výplňových murív – podľa stavebnej dokumentácie.",
+        "Opravy staticky narušených častí stavby – sanácie a spevnenie.",
+        "Zatepľovanie a omietanie muriva – estetické aj funkčné spracovanie.",
+        "Realizácia drobných aj rozsiahlych stavebných úprav – podľa rozsahu zákazky."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/masonry.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/masonry.png",
+      "delay": "delay-05s"
+    },
+    {
+      "title": "Montáž sadrokartónu",
+      "text": "Inštalácia sadrokartónových konštrukcií pre stropy, steny a podhľady s možnosťou zateplenia a odhlučnenia.",
+      "list": [
+        "Inštalácia sadrokartónových stien, stropov a podhľadov – moderné riešenia interiéru.",
+        "Zabudovanie svetelných prvkov, izolácie a výstuh – zvýšenie komfortu bývania.",
+        "Tvarovanie oblúkov, nik a dizajnových prvkov – pre náročné interiéry.",
+        "Príprava povrchov na maľovanie – hladké a rovné plochy bez prasklín.",
+        "Rýchla a čistá realizácia – minimálne zásahy do existujúceho priestoru."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/flooring.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/flooring.png",
+      "delay": "delay-1s"
+    },
+
+    {
+      "title": "Maľovanie interiérov a exteriérov",
+      "text": "Profesionálne maliarske práce pre vnútorné aj vonkajšie priestory vrátane prípravy podkladu a výberu farieb.",
+      "list": [
+        "Príprava povrchov, penetrácia a oprava nerovností – dokonalý základ pre výmaľbu.",
+        "Maľovanie stien, stropov a fasád – kvalitné farby podľa výberu klienta.",
+        "Dekoratívne techniky a špeciálne efekty – pre moderný alebo tradičný vzhľad.",
+        "Rýchla realizácia s dôrazom na čistotu – minimálne obmedzenie priestoru.",
+        "Poradenstvo pri výbere farebných odtieňov – profesionálny dizajnový prístup."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/paint_roller.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/paint_roller.png",
+      "delay": ""
+    },
+    {
+      "title": "Obklady a dlažby",
+      "text": "Kladenie keramických, kamenných a iných druhov obkladov a dlažieb pre kúpeľne, kuchyne, chodby a terasy.",
+      "list": [
+       "Obkladanie kúpeľní, kuchýň a iných priestorov – dlažby všetkých typov a veľkostí.",
+       "Presná pokládka dlažieb v interiéri aj exteriéri – rovinnosť a kvalita realizácie.",
+       "Realizácia špár, izolácií a ukončovacích líšt – detailné dokončenie.",
+       "Odborná montáž prírodného kameňa alebo imitácií – podľa požiadaviek klienta.",
+       "Odstránenie starých obkladov a príprava podkladu – komplexná služba."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/brickwork.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/brickwork.png",
+      "delay": "delay-05s"
+    },
+    {
+      "title": "Inštalatérske práce",
+      "text": "Montáž a servis kúrenia, vody a plynu – od radiátorov po kotle a bojlery.",
+      "list": [
+        "Kompletné inštalatérske služby – voda, plyn, kúrenie.",
+        "Montáž a výmena potrubí, ventilov, armatúr – pre novostavby aj rekonštrukcie.",
+        "Servis a opravy netesností a havárií – rýchly zásah pri poruchách.",
+        "Montáž sanitárneho zariadenia – umývadlá, WC, vane, sprchy.",
+        "Zabezpečenie revízií a tlakových skúšok – bezpečná prevádzka systému."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/pipe_fitting.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/pipe_fitting.png",
+      "delay": "delay-1s"
+    },
+
+    {
+      "title": "Pokládka plávajúcej podlahy",
+      "text": "Rýchla a presná inštalácia laminátových, vinylových a drevených plávajúcich podláh vrátane podkladovej vrstvy.",
+      "list": [
+        "Výber a dodanie vhodnej podlahovej krytiny – laminát, vinyl, drevo.",
+        "Príprava podkladu a nivelizácia – rovný a pevný základ.",
+        "Presná a čistá pokládka – zabezpečenie dlhodobej životnosti podlahy.",
+        "Montáž soklových líšt a prechodových profilov – estetické dokončenie.",
+        "Demontáž a likvidácia starej podlahy – kompletná služba na kľúč."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/flooring.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/flooring.png",
+      "delay": ""
+    },
+    {
+      "title": "Omietky",
+      "text": "Realizácia vnútorných a vonkajších omietok – strojových aj ručných, vrátane špeciálnych dekoratívnych techník.",
+      "list": [
+       "Strojové a ručné omietky – vnútorné aj vonkajšie povrchy.",
+       "Zhotovenie jadrových a štukových vrstiev – hladké a rovné steny.",
+       "Dekoratívne povrchové úpravy – benátsky štuk, štruktúrované omietky.",
+       "Opravy a sanácie poškodených omietok – obnova starších objektov.",
+       "Použitie moderných materiálov – záruka kvality a estetiky."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/wall_layers.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/wall_layers.png",
+      "delay": "delay-05s"
+    },
+    {
+      "title": "Fasády a zateplenie",
+      "text": "Zateplenie budov, renovácia fasád, aplikácia omietok a finálnych úprav pre zvýšenie energetickej efektívnosti.",
+      "list": [
+        "Zateplenie budov systémom ETICS – zvýšenie energetickej účinnosti.",
+        "Renovácia starých fasád – estetická obnova vzhľadu stavby.",
+        "Aplikácia fasádnych omietok a farieb – dlhodobá ochrana a dizajn.",
+        "Montáž soklových a odvodňovacích systémov – ochrana pred vlhkosťou.",
+        "Kompletné poradenstvo a výpočet úspor – návratnosť investície."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/facade.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/facade.png",
+      "delay": "delay-1s"
+    },
+
+    {
+      "title": "Montáž sanity",
+      "text": "Odborná montáž kúpeľňového a kuchynského vybavenia – vane, sprchy, WC, umývadlá a batérie.",
+      "list": [
+        "Inštalácia umývadiel, WC, sprchových kútov a vaní – precízna montáž.",
+        "Napojenie na vodu a odpad – funkčnosť a bezpečnosť prevádzky.",
+        "Zabezpečenie vhodných uchytení a tesnení – prevencia únikov vody.",
+        "Montáž kúpeľňového nábytku a doplnkov – estetické aj praktické riešenia.",
+        "Testovanie a kontrola funkčnosti – okamžité uvedenie do prevádzky."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/painter.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/painter.png",
+      "delay": ""
+    },
+    {
+      "title": "Interiérové dokončovacie práce",
+      "text": "Dokončovacie práce ako lišty, osvetlenie, drobné opravy a inštalácie, ktoré dotvárajú dokonalý vzhľad interiéru.",
+      "list": [
+       "Zárubne, dvere, podlahy a obklady – posledná fáza výstavby.",
+       "Montáž osvetlenia, zásuviek a vypínačov – funkčnosť a estetika.",
+       "Úprava detailov a oprava drobných nedostatkov – precízne dokončenie.",
+       "Inštalácia kuchýň a vstavaného nábytku – podľa rozmerov a dizajnu.",
+       "Zabezpečenie čistoty a odovzdanie priestoru – pripravené na bývanie."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/interior.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/interior.png",
+      "delay": "delay-05s"
+    },
+    {
+      "title": "Strechy a krytiny – pokládka, opravy a izolácie",
+      "text": "Kompletná realizácia a opravy striech, pokládka krytiny, inštalácia izolácií a zabezpečenie odvodnenia.",
+      "list": [
+        "Kompletná pokládka nových striech – krov, krytina, odvodnenie.",
+        "Rekonštrukcia a opravy existujúcich striech – výmena poškodených prvkov.",
+        "Montáž strešnej izolácie a fólií – ochrana proti vlhkosti a tepelným stratám.",
+        "Inštalácia odkvapových systémov a bleskozvodov – zabezpečenie funkčnosti.",
+        "Poradenstvo pri výbere materiálov – plech, škridla, asfaltové pásy."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/shed.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/shed.png",
+      "delay": "delay-1s"
+    },
+
+    {
+      "title": "Realizácia základových dosiek a hrubej stavby",
+      "text": "Výkopové práce, základové dosky, betónovanie a stavba nosných častí budovy až po fázu hrubej stavby.",
+      "list": [
+        "Výkopové práce a príprava podložia – geodetické a statické posúdenie.",
+        "Betónovanie základových pásov a dosiek – presnosť podľa projektu.",
+        "Zhotovenie nosných múrov a stropov – pevnosť a stabilita stavby.",
+        "Montáž prekladov, vencov a schodísk – súčasť konštrukcie domu.",
+        "Koordinácia s ďalšími profesiami – plynulý priebeh výstavby."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/house_filled.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/house_filled.png",
+      "delay": ""
+    },
+    {
+      "title": "Záhradné a terénne úpravy",
+      "text": "Úprava okolia domu – výkopové a nivelačné práce, zakladanie trávnikov, dlažby, chodníky, odvodnenie a príprava priestoru na terasy či altánky.",
+      "list": [
+       "Modelácia terénu a výkopové práce – príprava základu pre záhradu.",
+       "Výstavba chodníkov, múrikov a oplotenia – estetické a praktické riešenia.",
+       "Výsev trávnika, výsadba drevín a rastlín – záhrada na mieru.",
+       "Inštalácia závlahových systémov – pohodlné udržiavanie zelene.",
+       "Úprava okolia domu – dekoratívne kamene, dlažby, osvetlenie."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/gardening.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/gardening.png",
+      "delay": "delay-05s"
+    },
+    {
+      "title": "Montáž dverí a okien",
+      "text": "Presná a odborná montáž interiérových aj exteriérových dverí a okien vrátane osadenia zárubní, tesnenia a úpravy ostení pre dokonalý výsledok.",
+      "list": [
+        "Presná montáž plastových, drevených alebo hliníkových okien a dverí – podľa rozmerov a typu stavby.",
+        "Tesnenie a izolácia otvorov – zabezpečenie energetickej účinnosti.",
+        "Demontáž starých výplní otvorov – bez poškodenia muriva.",
+        "Zarovnanie a ukotvenie rámov – pevná a stabilná inštalácia.",
+        "Montáž žalúzií, parapetov a sieťok – doplnkové služby na mieru."
+      ],
+      "img": "img/portfolio/portfolio_icons_detalized/window.png",
+      "imgFilled": "img/portfolio/portfolio_icons_detalized/window.png",
+      "delay": "delay-1s"
+    }
+  ]
+}
